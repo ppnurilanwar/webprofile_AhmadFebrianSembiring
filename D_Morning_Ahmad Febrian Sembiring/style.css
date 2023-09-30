@@ -364,3 +364,6 @@ span.efek-ngetik {
 .has-text-white {
     color: #ffffff !important;
 }
+.fa-4x {
+    font-size: 4em;
+}
